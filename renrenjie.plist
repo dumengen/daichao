@@ -11,7 +11,7 @@
 					< key > kind </ key >
 					< string > software-package </ string >
 					< key > url </ key >
-					< string > http://47.105.214.58:80/renrenjie/v1.0/renrenjie.ipa </ string >
+					< string >http://47.105.214.58:80/renrenjie/v1.0/renrenjie.ipa</ string >
 				</ dict >
 				< dict >
 					< key > kind </ key >
